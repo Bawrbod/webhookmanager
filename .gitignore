@@ -1,0 +1,24 @@
+# Vercelz
+.vercel
+
+# Environment variablesjj
+.env
+.env.local
+.env.*.local
+
+# Dependencieszj
+node_modules
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logszjjz
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime
+dist
+build
